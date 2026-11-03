@@ -1,0 +1,46 @@
+scenario,training_seed,agent,episode_return
+High Random Noise,42,DQN,40.780661036173505
+High Random Noise,42,Random,27.435741068522134
+High Random Noise,42,Weakest-Skill,39.608535283406574
+High Random Noise,43,DQN,39.282444407145185
+High Random Noise,43,Random,25.14531997680664
+High Random Noise,43,Weakest-Skill,39.222849655151364
+High Random Noise,44,DQN,41.43646797180176
+High Random Noise,44,Random,27.423578618367515
+High Random Noise,44,Weakest-Skill,38.672275390625
+High Random Noise,45,DQN,40.02734853108724
+High Random Noise,45,Random,26.624520696004232
+High Random Noise,45,Weakest-Skill,38.624639625549314
+High Random Noise,46,DQN,41.69364943186442
+High Random Noise,46,Random,28.929106292724608
+High Random Noise,46,Weakest-Skill,40.040996386210125
+Low Learning Rate,42,DQN,17.168722699483236
+Low Learning Rate,42,Random,8.629686126708984
+Low Learning Rate,42,Weakest-Skill,15.86621114095052
+Low Learning Rate,43,DQN,16.612944946289062
+Low Learning Rate,43,Random,8.878920453389485
+Low Learning Rate,43,Weakest-Skill,15.559483070373535
+Low Learning Rate,44,DQN,18.86785996754964
+Low Learning Rate,44,Random,10.67152852376302
+Low Learning Rate,44,Weakest-Skill,17.48668758392334
+Low Learning Rate,45,DQN,16.629941813151042
+Low Learning Rate,45,Random,8.384878362019856
+Low Learning Rate,45,Weakest-Skill,15.504417088826498
+Low Learning Rate,46,DQN,16.161764539082846
+Low Learning Rate,46,Random,7.732945200602214
+Low Learning Rate,46,Weakest-Skill,15.114136683146159
+Normal,42,DQN,39.01975371042887
+Normal,42,Random,26.9527903620402
+Normal,42,Weakest-Skill,37.31152683258057
+Normal,43,DQN,38.630011024475095
+Normal,43,Random,26.42579645792643
+Normal,43,Weakest-Skill,37.55630326588948
+Normal,44,DQN,39.448508160909014
+Normal,44,Random,26.642088597615558
+Normal,44,Weakest-Skill,37.16838035583496
+Normal,45,DQN,38.22203940073649
+Normal,45,Random,25.769270782470702
+Normal,45,Weakest-Skill,36.544899965922035
+Normal,46,DQN,38.03995862325033
+Normal,46,Random,25.95040092468262
+Normal,46,Weakest-Skill,36.52796292622884

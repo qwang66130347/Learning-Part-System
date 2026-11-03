@@ -1,0 +1,3 @@
+Metric,Friedman_p,Wilcoxon_DQN_vs_Random_p,Wilcoxon_DQN_vs_Weakest_p,Cohens_D_DQN_vs_Random,Cohens_D_DQN_vs_Weakest
+Episode Return,0.0,0.0,6.492478469032332e-173,0.8112823459256167,0.12366094933937952
+Ability Gain,0.0,0.0,8.337831138567061e-154,0.676482727646035,0.10278345741311795
